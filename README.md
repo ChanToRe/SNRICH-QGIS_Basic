@@ -3,6 +3,8 @@
 # 2026년 국립문화유산연구원 발굴캠프 - GIS의 개념과 기초 분석 실습
 
 > **강의 목표**: GIS(Geographic Information Systems)의 기본 개념을 이해하고, QGIS를 활용하여 기초적인 분석을 수행해봅니다.
+>
+> 관련 자료는 [구글 드라이브](https://drive.google.com/drive/folders/1slReImvhEOvMZYppBdSIpafLpRN-8leF?usp=sharing)에서 다운로드할 수 있습니다.
 
 ## 1. GIS?
 
